@@ -26,7 +26,6 @@ dependencies:
   http: ^0.13.3
   equatable: ^2.0.3
   flutter_bloc: ^7.0.1
-  stream_transform: ^2.0.0
   webview_flutter: ^3.0.1
 
   # The following adds the Cupertino Icons font to your application.
